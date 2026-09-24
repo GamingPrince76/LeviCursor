@@ -1,12 +1,12 @@
-##LeviCursor
+# LeviCursor
 
-#Introduction
+## Introduction
 
 LeviCursor is a native mouse cursor mod for Minecraft Bedrock on Android, made for "LeviLauncher" (https://github.com/LiteLDev/LeviLaunchroid). It provides a customizable mouse cursor while playing Minecraft through LeviLauncher.
 
 The mod is designed to be lightweight and simple to install, with the distributed build packaged as a ".levipack" for Android ARM64 devices.
 
-#Features
+## Features
 
 - Native C++20 mod built for LeviLauncher and Preloader
 - Custom mouse cursor for Minecraft Bedrock
@@ -17,14 +17,14 @@ The mod is designed to be lightweight and simple to install, with the distribute
 - Distributed as a ready-to-install ".levipack"
 - Designed specifically for LeviLauncher on Android
 
-#System Requirements
+## System Requirements
 
 - Android 9 or newer
 - 64-bit ARM device ("arm64-v8a")
 - "LeviLauncher" (https://github.com/LiteLDev/LeviLaunchroid)
 - A Minecraft Bedrock version supported by the LeviCursor release you are using
 
-#Installation
+## Installation
 
 1. Install LeviLauncher.
 2. Download the latest "LeviCursor.levipack" release.
@@ -32,7 +32,7 @@ The mod is designed to be lightweight and simple to install, with the distribute
 4. Enable LeviCursor.
 5. Launch Minecraft through LeviLauncher.
 
-#Configuration
+## Configuration
 
 LeviCursor includes a cursor configuration file:
 
@@ -50,7 +50,7 @@ LeviCursor includes a cursor configuration file:
 
 The hotspot determines the point within the cursor image that represents the actual pointer position.
 
-#Compatibility
+## Compatibility
 
 Current target: Minecraft Bedrock "1.26.5X.X"
 
@@ -62,13 +62,13 @@ Launcher: LeviLauncher
 
 Minecraft native compatibility can vary between game versions. Use a LeviCursor release that matches the Minecraft version you are running.
 
-#Releases
+## Releases
 
 The latest compiled LeviCursor package is available from the "Releases" (../../releases) page.
 
 The current release is v0.1.0.
 
-#Package:
+## Package:
 
 "levicursor-0.1.0-arm64-v8a.levipack"
 
@@ -83,11 +83,11 @@ The distributed LeviCursor package contains the files required by LeviLauncher:
 
 The development source code is maintained privately and is not included in the public distribution repository.
 
-#Usage Guidelines
+## Usage Guidelines
 
 Do not use LeviCursor or LeviLauncher to violate Mojang or Microsoft's user agreements.
 
-#Disclaimer: The author of LeviCursor is not responsible for bans, damages, data loss, or other issues arising from the use of this software. Use it at your own risk and in accordance with Minecraft's terms of service.
+## Disclaimer: The author of LeviCursor is not responsible for bans, damages, data loss, or other issues arising from the use of this software. Use it at your own risk and in accordance with Minecraft's terms of service.
 
 Credits & Acknowledgements
 
@@ -97,7 +97,7 @@ Built for "LeviLauncher" (https://github.com/LiteLDev/LeviLaunchroid).
 
 Thanks to the LeviLauncher and LeviModHub projects for providing the ecosystem used to run and distribute native Android mods.
 
-#Contact
+## Contact
 
 Report Issues: Open an issue in this GitHub repository.
 
@@ -110,7 +110,7 @@ When reporting an issue, include:
 - Device architecture
 - Description of the problem
 
-#License
+## License
 
 LeviCursor is distributed as a compiled native mod.
 
