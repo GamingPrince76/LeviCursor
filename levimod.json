@@ -1,18 +1,27 @@
 {
-  "schema_version": 1,
-  "id": "levicursor",
-  "version": "0.1.0",
-  "minecraft_versions": [
-    "1.26.5*"
-  ],
-  "info": {
-    "name": "LeviCursor",
-    "author": "GamingPrince76",
-    "description": "A native LeviLauncher mod providing a customizable mouse cursor for Minecraft Bedrock.",
-    "homepage_url": "https://github.com/GamingPrince76/LeviCursor"
-  },
-  "download": {
-    "type": "direct",
-    "url": "https://github.com/GamingPrince76/LeviCursor/releases/download/v0.1.0/levicursor-0.1.0-arm64-v8a.levipack"
-  }
+"schema_version": 1,
+"id": "levicursor",
+"version": "0.1.0",
+"minecraft_versions": [
+"1.26.5*"
+],
+"info": {
+"name": "LeviCursor",
+"author": "GamingPrince76",
+"description": "A native LeviLauncher mod providing a customizable mouse cursor for Minecraft Bedrock.",
+"homepage_url": "https://github.com/GamingPrince76/LeviCursor",
+"icon": "icon.png",
+"tags": [
+"Visual",
+"Utility"
+]
+},
+"release_assets": {
+"include": [
+"*.levipack"
+],
+"labels": {
+"levicursor-0.1.0-arm64-v8a.levipack": "LeviPack"
+}
+}
 }
